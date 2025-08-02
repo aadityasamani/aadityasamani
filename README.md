@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **StudyFlow – a smart study planner with auto-scheduling, progress tracking & productivity features.**
 
-- 🌱 Currently diving into **Operating Systems, RDBMS (MySQL), and Data Structures & Algorithms.**
+- 🌱 Currently diving into **Operating Systems, RDBMS, and Data Structures & Algorithms.**
 
 - 👯 Looking to collaborate on **open-source web apps or full-stack tools that solve real problems.**
 
