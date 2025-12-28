@@ -7,7 +7,7 @@
 
 - 🌱 Currently diving into **Machine Learning, Cloud Computing, Software Engineering Fundamentals and much more...**
 
-- 👯 Looking to collaborate on **open-source web apps or full-stack tools that solve real problems.**
+- 💻 Looking to collaborate on **open-source web apps or full-stack tools that solve real problems.**
 
 - 📫 How to reach me: **aaditya.samani.official@gmail.com** or on **[LinkedIn](https://linkedin.com/in/aadityasamani)**
 
