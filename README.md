@@ -3,13 +3,13 @@
 
 - 🎓 **2nd-year Diploma student** in **Computer Engineering**, building solid CS fundamentals.
 
-- 🔭 I’m currently working on **StudyFlow – a smart study planner with auto-scheduling, progress tracking & productivity features.**
+- 🔭 I’m currently working on **FlightMode – a productivity app tracker based on transport theme.**
 
 - 🌱 Currently diving into **Machine Learning, Cloud Computing, Software Engineering Fundamentals and much more...**
 
 - 👯 Looking to collaborate on **open-source web apps or full-stack tools that solve real problems.**
 
-- 📫 How to reach me: **aaditya0257@gmail.com** or on **[LinkedIn](https://linkedin.com/in/aadityasamani)**
+- 📫 How to reach me: **aaditya.samani.official@gmail.com** or on **[LinkedIn](https://linkedin.com/in/aadityasamani)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
